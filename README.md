@@ -1,3 +1,5 @@
+Task: LSTM for English-French Translation
+
 Packages: numpy, pandas, nltk, gensim, tensorflow
 
 Model: LSTM
